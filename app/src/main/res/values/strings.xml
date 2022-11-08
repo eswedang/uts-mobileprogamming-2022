@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tampilan Login</string>
+    <string name="email_not_valid">email not valid</string>
+    <string name="pass_length_less_than_8">pass length less than 8</string>
+</resources>
